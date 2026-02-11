@@ -6,7 +6,7 @@
 
 ---
 
-## 0x01: The Premise (The Legacy Code Problem)
+## 1: The Premise (The Legacy Code Problem)
 
 You are a modern biological organism running **Legacy Code** (trauma/history) written by **Deprecated Authors** (previous administrators, outdated societal protocols).
 
@@ -25,7 +25,7 @@ You are a modern biological organism running **Legacy Code** (trauma/history) wr
 
 ---
 
-## 0x02: The Runtime Environment ("The Lands")
+## 2: The Runtime Environment ("The Lands")
 
 Strict categorization of signals is required to prevent "Meaning" from overwriting "Reality."
 
@@ -37,7 +37,7 @@ Strict categorization of signals is required to prevent "Meaning" from overwriti
 
 ---
 
-## 0x03: The Core Loop (Gameplay)
+## 3: The Core Loop (Gameplay)
 
 The game is a text-based terminal interface for debugging your emotional stack trace in real-time.
 
@@ -66,19 +66,21 @@ If the check returns `FALSE`, call an external library (an LLM trained on Cybern
 
 ---
 
-## 0x04: Scoring & Mechanics
+## 4: Scoring & Mechanics
 
 **The objective is High Observation, Zero Dependency.**
 
-$$\text{Score} = \left(\sum \text{Sensations}\right) - \left(\sum \text{LLM_Uses}\right) + \left(\text{Systemic_Resonance}\right)$$
+```python
+score = (sensations_count) - (llm_uses_count) + (time_away_from_system)
+```
 
-- **Sensations (+1)**: Identifying hardware states without a system crash
-- **LLM Use (-1)**: Penalty for outsourcing regulation
-- **Systemic Resonance (Bonus)**: Hardware running efficiently (absurd joy/laughter) without legacy drag
+- **Sensations (+1 each)**: Identifying hardware states without a system crash
+- **LLM Use (-1 each)**: Penalty for outsourcing regulation
+- **Time Away (Bonus)**: Long absence from the system = hardware running efficiently without needing the debugger
 
 ---
 
-## 0x05: The Ultimate Test
+## 5: The Ultimate Test
 
 **The Scenario**: You have two chat-boxes. Two people are behind them. Both will die unless you choose to save one. You are guaranteed truthful answers, you have unlimited time.
 
